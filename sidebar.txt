@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mat:home|Door43 (mat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mat|d43-mat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mat/archive/master.zip|d43-mat.zip]]
+
+**Recent Changes**
+{{changes>ns = mat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mat|Ethnologue data]]
+
